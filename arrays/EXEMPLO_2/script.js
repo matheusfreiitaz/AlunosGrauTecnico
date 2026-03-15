@@ -1,7 +1,7 @@
 // Array que guarda as tarefas
 let tarefas = []
 
-function adicionarTarefa(){
+function adicionarTarefa(){ 
 
 let input = document.getElementById("tarefa")
 let texto = input.value
