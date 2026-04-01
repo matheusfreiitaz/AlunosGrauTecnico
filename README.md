@@ -9,7 +9,7 @@ O conteúdo presente neste repositório inclui:
 📖 Explicações sobre conceitos fundamentais
 💻 Exemplos de códigos
 🧪 Testes controlados realizados em aula
-🧠 Desafios de lógica
+🧠 Desafios de lógica 
 📝 Exercícios para prática
 🔍 Simulações de problemas reais
 
