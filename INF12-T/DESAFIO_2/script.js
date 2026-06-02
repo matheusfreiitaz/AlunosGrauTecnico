@@ -5,7 +5,7 @@
 // emailCorreto
 // senhaCorreta
 
-// O sistema deve verificar se:
+// O sistema deve verificar se: 
 // O email está correto
 // E a senha está correta
  
