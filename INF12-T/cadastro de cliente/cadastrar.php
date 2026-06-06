@@ -2,7 +2,7 @@
 // 1. Conexão com o banco (Servidor, Usuário, Senha, Banco) 
 $conexao = mysqli_connect("localhost", "root", "1234", "sistema_usuarios");
 
-// Verificando se a conexão falhou
+// Verificando se a conexão falhou    
 if (!$conexao) {
     die("Falha na conexão: " . mysqli_connect_error());
 }
