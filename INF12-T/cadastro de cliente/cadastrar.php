@@ -1,5 +1,5 @@
 <?php
-// 1. Conexão com o banco (Servidor, Usuário, Senha, Banco)
+// 1. Conexão com o banco (Servidor, Usuário, Senha, Banco) 
 $conexao = mysqli_connect("localhost", "root", "1234", "sistema_usuarios");
 
 // Verificando se a conexão falhou
