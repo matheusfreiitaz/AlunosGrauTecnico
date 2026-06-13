@@ -3,6 +3,7 @@
 
 // Crie variáveis para:
 // idade
+//nome e cpf 
 // possuiIngresso
 
 // O sistema deve verificar se:
